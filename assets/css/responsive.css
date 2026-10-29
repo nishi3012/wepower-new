@@ -1,0 +1,3131 @@
+/* Normal desktop :1300px. */
+@media (min-width: 1371px) and (max-width: 1600) {
+}
+
+/* large Desktop */
+
+@media (min-width: 1371px) and (max-width: 1600px) {
+  .service-section .swiper {
+    height: 428px !important;
+  }
+
+  .service-content {
+    left: 30px;
+  }
+
+  .service-content h2 a {
+    font-size: 23px;
+  }
+}
+
+/* Mediam desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1370px) {
+  .logo a img {
+    width: 100%;
+  }
+  nav.mediic_menu {
+    text-align: left;
+  }
+
+  .mediic_menu > ul > li > a {
+    padding: 0px 11px;
+    margin: 16px 0px;
+  }
+
+  /* Style 2 */
+
+  .feature-single-box-2 .feature-content {
+    padding-left: 30px;
+  }
+
+  .feature-single-box-2 {
+    padding: 25px 25px 25px;
+  }
+
+  .feature-title h3 {
+    font-size: 20px;
+  }
+
+  .head-title h2 {
+    font-size: 22px;
+  }
+
+  /* top Section */
+  .mediic-top-section {
+    padding: 110px 50px 0px 5px;
+  }
+  .service-section {
+    padding: 30px 50px 120px 110px;
+  }
+
+  .service-section .swiper {
+    height: 475px;
+  }
+
+  .service-thumb:before {
+    display: none;
+  }
+
+  /* Style 2 */
+
+  .mediic-service-box {
+    padding: 35px 30px 28px;
+  }
+
+  .style-2 .service-thumb:before {
+    right: -208px;
+  }
+
+  .service-content {
+    left: 25px;
+  }
+
+  .service-content h2 a {
+    font-size: 22px;
+  }
+
+  .service-content h6 {
+    font-size: 14px;
+  }
+
+  .box-2.mediic-service-box {
+    padding: 30px 15px 30px;
+  }
+
+  .box-2 .mediic-title h4 {
+    font-size: 20px;
+    padding: 0 0 0 20px;
+  }
+
+  .mediic-section-title h1 {
+    font-size: 55px;
+    line-height: 56px;
+  }
+
+  .thumbs-bxs {
+    right: 12px;
+  }
+
+  /* Why Choose Us */
+
+  .why-choose-thumb {
+    left: 0;
+  }
+
+  .why-choose-thumb img {
+    width: 100%;
+  }
+
+  .mdy-shapae {
+    right: -95px;
+  }
+
+  .mdy-shapae img {
+    width: 71%;
+  }
+
+  .thumbs-bxs3 {
+    top: 0;
+    left: 0;
+  }
+
+  .testimonial-section {
+    padding: 60px 10px 120px;
+  }
+
+  .testi-single-box {
+    padding: 40px 30px 40px;
+  }
+
+  .user-info {
+    padding: 23px 0 0;
+  }
+
+  .testi-desc p {
+    font-size: 17px;
+  }
+
+  .subscribe-title h1 {
+    font-size: 30px;
+  }
+
+  /* Start Inner Page Section */
+
+  .breatcome-section {
+    background-size: cover;
+  }
+
+  .single-services-box {
+    padding: 38px 25px 32px;
+  }
+
+  .services-title h3 {
+    font-size: 22px;
+  }
+
+  .services-desc p {
+    font-size: 16px;
+  }
+
+  .mediic-appoinment {
+    background-size: cover;
+  }
+
+  .mediic-icons {
+    float: inherit;
+
+    margin-bottom: 30px;
+  }
+
+  /* Blog section */
+
+  .blog-content {
+    padding: 23px 12px 0 0;
+  }
+
+  .blog-title h2 a {
+    font-size: 20px;
+  }
+
+  /*  */
+}
+
+/* Mediam desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+  .logo a img {
+    width: 100%;
+  }
+  nav.mediic_menu {
+    text-align: left;
+  }
+  ul.nav_scroll {
+    padding: 0 22px 0 28px;
+  }
+  .mediic_menu > ul > li > a {
+    font-size: 14px;
+    padding: 0px 8px;
+    margin: 15px 0px;
+  }
+
+  .header-button a img {
+    padding-left: 0;
+  }
+
+  .header-button a {
+    padding: 14px 18px;
+    font-size: 14px;
+  }
+
+  .search-box-btn.search-box-outer {
+    display: none;
+  }
+
+  .nav-btn.navSidebar-button span i {
+    font-size: 18px;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+  }
+
+  /* Hero Section */
+
+  .hero-content h1 {
+    font-size: 100px;
+  }
+  .hero-shape {
+    top: -122px;
+  }
+
+  .hero-section .mediic-btn a {
+    padding: 18px 25px;
+    font-size: 17px;
+  }
+
+  /* Counter section */
+
+  .counter-serction {
+    margin-top: -36px;
+  }
+
+  
+
+  .counter-title h2 {
+    font-size: 25px;
+    line-height: 25px;
+    padding: 11px 0 0 20px;
+  }
+
+  .odometer-wrapper.counter-box-title h1 {
+    font-size: 45px;
+  }
+  .counter-desc p {
+    font-size: 18px;
+  }
+  /* Featute Section */
+  .feature-single-box {
+    padding: 40px 30px 27px;
+  }
+
+  .head-title h2 {
+    font-size: 23px;
+  }
+
+  .bx-2.feature-single-box {
+    padding: 40px 30px 26px;
+  }
+
+  .bx-2 .head-title h2 {
+    font-size: 19px;
+  }
+
+  .bx-2 .feature-content p {
+    padding: 11px 0 0;
+    font-size: 15px;
+  }
+
+  .feature-btn a {
+    padding: 10px 20px;
+    font-size: 13px;
+  }
+
+  .feature-head {
+    align-items: center;
+  }
+
+  /* Style 2 */
+
+  .feature-thumb img {
+    width: 100%;
+  }
+
+  .feature-single-box-2 .feature-content {
+    padding-left: 25px;
+  }
+
+  /* About Section */
+
+  .about-thumb img {
+    width: 98%;
+  }
+
+  .thumbs-bxs {
+    right: 12px;
+    width: 174px;
+    height: 174px;
+    line-height: 174px;
+  }
+
+  .icon img {
+    width: auto;
+  }
+  .text-circle svg {
+    width: 117px;
+  }
+
+  .about-service-list ul li {
+    display: inline-flex;
+  }
+
+  .mdy-about-contact {
+    display: inline-block;
+  }
+
+  /* Section Title */
+
+  .mediic-section-title h1 {
+    font-size: 55px;
+    line-height: 60px;
+  }
+
+  .mediic-section-title2 h3 {
+    font-size: 29px;
+  }
+
+  /* mediic Top Section */
+
+  .mediic-top-section {
+    padding: 110px 50px 0px 20px;
+  }
+
+  .mediic-section-title h1 {
+    font-size: 45px;
+  }
+  .mediic-top-section .top-mediic-section {
+    display: inherit;
+    text-align: center;
+  }
+
+  .mediic-desc {
+    width: 100%;
+    padding: 22px 0 18px;
+  }
+
+  /* Service Section */
+
+  .service-section {
+    padding: 30px 50px 120px 20px;
+  }
+
+  .service-content h2 a {
+    font-size: 25px;
+  }
+  .service-thumb:before {
+    display: none;
+  }
+
+  .service-thumb img {
+    border-radius: 20px;
+  }
+  .swiper-button-next,
+  .swiper-button-prev {
+    top: var(--swiper-navigation-top-offset, 32%) !important;
+  }
+  .service-section .swiper {
+    height: 405px;
+  }
+
+  .swiper-scrollbar {
+    display: none;
+  }
+
+  /* Style 2 */
+
+  .style-2 .service-thumb:before {
+    display: none;
+  }
+
+  .box-2.mediic-service-box {
+    padding: 28px 15px 23px;
+    align-items: center;
+    display: inline-flex;
+  }
+
+  .box-2 .mediic-title h4 {
+    font-size: 17px;
+    padding: 0 0 0 15px;
+  }
+
+  /* Appointment */
+
+  .mediic-appoinment {
+    background-size: cover;
+  }
+  .mediic-shape-2 {
+    left: 326px;
+  }
+
+  /* Why Choose Us */
+
+  .why-choose-thumb {
+    left: 0;
+  }
+
+  .why-choose-thumb img {
+    width: 100%;
+  }
+
+  .mdy-shapae {
+    right: -138px;
+  }
+
+  .mdy-shapae img {
+    width: 58%;
+  }
+
+  .thumbs-bxs3 {
+    top: 0;
+    left: 0;
+  }
+
+  /* Testimonial */
+  .testimonial-section {
+    padding: 60px 0px 120px;
+  }
+
+  .testi-thumb img {
+    width: auto;
+  }
+
+  .testi-single-box {
+    padding: 60px 20px 60px;
+  }
+
+  .testi-desc p {
+    font-size: 16px;
+  }
+  .user-info {
+    padding: 28px 0 0;
+  }
+  .user-name h4 {
+    font-size: 18px;
+  }
+  .user-name h6 {
+    font-size: 16px;
+  }
+  /* Blog Section */
+
+  .blogs-category ul li {
+    margin: 0 15px 0 15px;
+  }
+
+  .blog-title h2 a {
+    font-size: 22px;
+  }
+  /* Subscribe Section */
+
+  .subscribe-title h1 {
+    font-size: 28px;
+  }
+
+  .footer-thumb {
+    display: none;
+  }
+
+  .footer-thumb1 {
+    display: none;
+  }
+
+  /* ************************** *
+    <--Inner Page Section-->
+* **************************** */
+
+  .breatcome-section {
+    background-size: cover;
+  }
+
+  /* <--About Section--> */
+
+  .style-3 .counter-right-side {
+    width: auto;
+  }
+
+  .style-3 .odometer-wrapper.counter-box-title h1 {
+    font-size: 38px;
+  }
+
+  ul.about-mediic-services li {
+    font-size: 16px;
+  }
+
+  /* mission  */
+
+  .mission-vission-single-box {
+    padding: 38px 30px 20px;
+  }
+
+  .m_v-ssion-desc p {
+    font-size: 16px;
+  }
+  /* Testimonial */
+
+  .style-2 .testi-single-box {
+    padding: 40px 35px 20px;
+  }
+
+  .style-2 .testi-quote2 {
+    right: 30px;
+  }
+
+  /* Service Inner Page */
+
+  .single-services-box {
+    padding: 38px 25px 32px;
+  }
+
+  .services-title h3 {
+    font-size: 20px;
+  }
+
+  .services-desc p {
+    font-size: 16px;
+  }
+  /* Details Page  */
+  .mediic-icons {
+    float: inherit;
+    margin-bottom: 30px;
+  }
+
+  .blog-desc p {
+    font-size: 20px;
+  }
+
+  .accordion li a {
+    font-size: 18px;
+  }
+
+  /* Error Page */
+
+  .error-section {
+    padding: 90px 70px 90px;
+  }
+
+  /* Blog Inner page section */
+
+  .blog-content {
+    padding: 23px 0px 0 0;
+  }
+
+  .blog-title h2 a {
+    font-size: 17px;
+    line-height: 22px;
+  }
+
+  .mediic-category-box.responsive {
+    padding: 20px 13px 24px 25px;
+    margin-bottom: 20px;
+  }
+
+  .category-content {
+    padding-left: 10px;
+  }
+
+  .post-thumb a img {
+    width: 60px !important;
+    height: 60px !important;
+  }
+
+  .category-content h4 a {
+    font-size: 16px;
+    line-height: 19px;
+  }
+
+  .category-content h6 {
+    font-size: 13px;
+  }
+
+  .blogs-category ul li {
+    font-size: 14px;
+  }
+
+  .mediic-thumb img {
+    width: 100%;
+  }
+
+  /* Project Section inner Page */
+
+  .project-content {
+    padding: 25px 22px 10px;
+    width: 89%;
+  }
+
+  .project-content h2 {
+    font-size: 19px;
+  }
+
+  .project-content h5 {
+    font-size: 14px;
+  }
+
+  .project-icon a {
+    top: 20px;
+  }
+
+  .doctors-service {
+    padding: 22px 20px 20px;
+  }
+
+  .doctor-content h3 {
+    font-size: 17px;
+  }
+
+  /* Testimonial */
+
+  .upp.style-2 .testi-bg .testi-single-box {
+    padding: 5px 35px 40px;
+  }
+
+  .upp.style-2 .user-name h4 {
+    font-size: 20px;
+  }
+
+  .upp.style-2 .testi-desc p {
+    font-size: 18px;
+  }
+
+  .upp.style-2 .user-info {
+    padding: 35px 25px 35px 25px;
+    margin: 15px 25px 0 0;
+  }
+
+  /*  */
+}
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+  .sticky {
+    position: absolute !important;
+  }
+
+  .mediic_nav_manu {
+    display: none;
+  }
+
+  .team-close-btn{
+    top: 90px;
+  }
+
+  /* Hero Section */
+
+  .hero-content h1 {
+    font-size: 80px;
+  }
+
+  .mediic-hero-content p {
+    color: #fff;
+  }
+
+  .mediic-btn a {
+    padding: 16px 27px;
+    font-size: 17px;
+  }
+
+  .hero-shape {
+    top: -28px;
+    left: -72px;
+  }
+
+  .doctor-box{
+    margin-top: 130px;
+  }
+
+  .team-second{
+    margin-top: 0;
+  }
+
+
+  .team-second .doctor-box{
+    margin-top: 130px !important;
+  }
+
+
+  /* Counter Section */
+
+  .counter-serction {
+    background-size: cover;
+    margin-top: 0;
+  }
+
+  .counter-items {
+    display: inherit;
+  }
+
+  .counter-right-side {
+    padding-top: 50px;
+  }
+
+  /* Feature Sections */
+
+  .bx-2.feature-single-box {
+    padding: 40px 30px 26px;
+  }
+
+  .head-title h2 {
+    font-size: 22px;
+  }
+
+  /* Style 2 */
+
+  .feature-single-box-2 {
+    display: inherit;
+  }
+
+  .feature-single-box-2 .feature-content {
+    padding-left: 0;
+    padding-top: 25px;
+  }
+
+  /* Section Title */
+
+  .mediic-section-title h1 {
+    font-size: 48px;
+    line-height: 47px;
+  }
+
+  .about-serction{
+    padding: 0 0 0px;
+  }
+
+  .about-details{
+    bottom: 0;
+  }
+
+  .bx-2 .odometer-wrapper.counter-box-title{
+    justify-content: left;
+  }
+
+  .bx-2 .odometer-wrapper.counter-box-title h1 {
+    font-size: 48px;
+  }
+
+  .mediic-section-title h1 span img {
+    width: 11%;
+    margin: -6px 0 0 5px;
+  }
+
+  /* About Section */
+
+  .thumbs-bxs {
+    right: 66px;
+  }
+
+  .service-boxes{
+    /* margin-top: 150px; */
+  }
+
+  .about-thumb img {
+    padding: 0 0 25px;
+  }
+
+  /* Marquee Section */
+
+  .marquee-section {
+    padding: 65px 20px;
+  }
+
+  .help-para{
+    width: 100%;
+  }
+
+  .marquee-content h2 {
+    font-size: 50px;
+  }
+
+  .style-2.marquee-section {
+    padding: 26px 0px 35px;
+  }
+
+  .m_v-ssion-title h3{
+    white-space: inherit;
+  }
+
+  
+
+  .subscribe-title h1{
+    white-space: inherit;
+  }
+
+  .subscribe-title{
+    display: grid !important;
+  }
+
+  .subscribe-title h1{
+    padding-left: 30px !important;
+  }
+
+  /* Top Section */
+
+  .mediic-top-section {
+    padding: 110px 50px 0px 20px;
+  }
+
+  .top-mediic-section {
+    display: inherit;
+  }
+
+  .hero-section{
+    margin-top: 56px;
+    height: 678px;
+  }
+
+  .banner-vector{
+    width: 145px;
+  }
+
+  p.counter-desc{
+    width: 32%;
+  }
+
+  .bx-2 .odometer-wrapper.counter-box-title{
+    justify-content: center;
+  }
+
+  .nurse{
+    margin-top: 150px;
+    height: 443px;
+    width: 800px;
+  }
+
+  .banner-vector img{
+    width: 140px;
+  }
+
+  .home-para1{
+    font-size: 25px;
+  }
+  .mediic-desc {
+    width: 100%;
+    padding: 15px 0 15px;
+  }
+
+  /* Service Section */
+
+  .service-section {
+    padding: 30px 20px 120px 20px;
+  }
+
+  .service-section .swiper {
+    height: 480px;
+  }
+
+  .swiper-button-next,
+  .swiper-button-prev {
+    top: var(--swiper-navigation-top-offset, 41%) !important;
+  }
+
+  .service-thumb:before {
+    right: -247px;
+  }
+
+  /* Style 2 */
+
+  .style-2 .service-thumb:before {
+    right: -196px;
+  }
+
+  .owl-nav {
+    left: -82px;
+  }
+
+  .style-2.service-section {
+    padding: 30px 0px 120px 115px;
+  }
+
+  .service-content {
+    left: 30px;
+  }
+
+  .service-content h2 a {
+    font-size: 22px;
+  }
+
+  .box-2.mediic-service-box {
+    padding: 28px 22px 26px;
+    display: flex;
+    align-items: center;
+  }
+
+  .box-2 .mediic-title h4 {
+    font-size: 19px;
+    padding: 0 0 0 12px;
+  }
+
+  /* Appointment */
+
+  .mediic-appoinment {
+    background-size: cover;
+    background-position: right;
+  }
+
+  .mediic-shape-2 {
+    top: -70px;
+  }
+
+  /* Why Choose Us */
+
+  .why-choose-thumb {
+    left: 0;
+    padding-bottom: 30px;
+  }
+
+  .why-choose-thumb img {
+    width: 100%;
+  }
+
+  .mdy-shapae {
+    right: -27px;
+  }
+
+  .mdy-shapae img {
+    width: 92%;
+  }
+
+  .why-choose-us-serction .mediic-section-title p {
+    width: 84%;
+  }
+
+  /* Testimonial Section */
+
+  .testimonial-section {
+    padding: 60px 30px 120px;
+  }
+
+  .testi-thumb img {
+    margin-bottom: 30px;
+  }
+
+ 
+
+  .mediic-button.text-right {
+    text-align: center !important;
+    padding: 15px 0 0;
+  }
+
+  .user-info {
+    padding: 28px 0 0;
+  }
+
+  /* Blog Section */
+
+  .blog-title h2 a {
+    font-size: 22px;
+  }
+
+  .blog-section .mediic-btn {
+    margin-top: 20px;
+  }
+
+  /* Footer Section */
+
+  .footer-thumb {
+    /* display: none; */
+  }
+
+  .footer-vector{
+    left: 20px;
+    width: 169px;
+  }
+
+  .footer-thumb1 {
+    display: none;
+  }
+
+  /******************************
+  <--Inner Page Section-->  
+  ********************************/
+  .breatcome-section {
+    background-size: cover;
+    margin-top: 0;
+  }
+
+  /* About Section */
+  .style-3.about-section .about-thumb img {
+    padding: 0;
+  }
+
+  .style-3.about-section .about-thumb {
+    padding-bottom: 30px;
+  }
+  /* Service Inner Page */
+
+  .single-services-box {
+    padding: 38px 25px 32px;
+  }
+
+  .services-title h3 {
+    font-size: 22px;
+  }
+
+  .services-desc p {
+    font-size: 24px;
+    line-height: 33px;
+  }
+
+
+  .close{
+    right: 39px !important;
+    top: 98px !important;
+  }
+
+  .mediic-description li {
+    font-size: 27px;
+    line-height: 40px;
+  }
+  /* Details Page  */
+  .mediic-icons {
+    float: inherit;
+    margin-bottom: 30px;
+  }
+
+  /* Error Page */
+  .error-section {
+    padding: 90px 0px 90px;
+  }
+
+  /* Appoinment Section */
+
+  .style-1 .testi-single-box {
+    margin-bottom: 35px;
+  }
+
+  /* Blog Inner Page Section */
+
+  .style-2 .blog-single-box {
+    padding: 25px 15px 35px 25px;
+  }
+
+  .blog-content {
+    padding: 23px 5px 0 0;
+  }
+
+  .blogs-category ul li {
+    font-size: 14px;
+    margin: 0 10px 0 22px;
+  }
+
+  .mediic-section.style-2 .blog-title h2 a {
+    font-size: 20px;
+    line-height: 24px;
+  }
+
+  .mediic-thumb img {
+    width: 100%;
+  }
+
+  .style-2.accordion li a span:before {
+    right: -642px;
+  }
+
+  .accordion2 li a span:before {
+    right: -644px;
+  }
+
+  /* Project Section inner Page */
+
+  .project-content {
+    padding: 25px 22px 10px;
+  }
+
+  .project-content h2 {
+    font-size: 20px;
+  }
+
+  .project-icon a {
+    top: 20px;
+  }
+
+  /* Testimonial inner Page */
+
+  .upp.style-2 .testi-bg .testi-single-box {
+    padding: 5px 25px 40px;
+  }
+
+  .upp.style-2 .testi-bg .user-info {
+    padding: 0;
+    margin: 30px 12px 0 0;
+  }
+
+  .upp.style-2 .user-name h4 {
+    font-size: 18px;
+  }
+
+  .upp.style-2 .testi-desc p {
+    font-size: 16px;
+  }
+
+  .upp.style-2 .user-info {
+    padding: 25px 15px 25px 1px;
+    margin: 0px 10px 0 0;
+  }
+
+  .people-pic img {
+    margin-right: 0;
+    width: 62%;
+  }
+
+  .style-2 .testi-quote2 {
+    right: 20px;
+    bottom: 39px;
+  }
+
+  .testi-quote2 img {
+    width: 74%;
+  }
+
+  .upp.style-2 .user-name h6 {
+    font-size: 15px;
+  }
+.sticky {
+    z-index: 2;
+}
+  /*  */
+}
+
+/* small mobile :600px. */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+  /* Simple mobile fade-in */
+  .m-fade { opacity: 0; transform: none; transition: opacity .5s ease-in; }
+  .m-fade.is-visible { opacity: 1; }
+  .sticky {
+    position: absolute !important;
+  }
+
+  .mediic_nav_manu {
+    display: none;
+  }
+
+  /* Hero Section */
+
+  .hero-section {
+    margin-top: 63px;
+  }
+
+  .hero-content h1 {
+    font-size: 59px;
+  }
+
+  .hero-btm-boxs {
+    display: inherit;
+  }
+
+  .mediic-btn {
+    text-align: left;
+    padding: 10px 0 0;
+  }
+
+  .mediic-hero-content p {
+    color: #fff !important;
+  }
+
+  .mediic-btn a {
+    padding: 16px 40px;
+  }
+
+  .hero-shape {
+    display: none;
+  }
+
+  span.team-mbr {
+    padding: 14px 17px;
+    font-size: 14px;
+  }
+
+  span.team-mbr img {
+    padding: 0 10px 0 0;
+    width: 50%;
+  }
+
+  /* Style 2 */
+
+  .content-inner {
+    padding: 70px 40px 0;
+  }
+
+  .hero-content2 h2 {
+    font-size: 55px;
+  }
+
+  /* Counter Section */
+
+  .counter-serction {
+    background-size: cover;
+    margin-top: 0;
+  }
+
+  .counter-items {
+    display: inherit;
+  }
+
+  .counter-right-side {
+    padding-top: 50px;
+  }
+
+  .counter-title h2 {
+    font-size: 24px;
+    line-height: 14px;
+    padding: 20px 0 0 25px;
+  }
+
+  p.counter-desc {
+    font-size: 15px;
+    line-height: 25px;
+    width: 30%;
+    margin: 0 0 0 7px;
+  }
+
+  /* Feature Sections */
+
+  .feature-single-box-2 .feature-thumb img {
+    width: 100%;
+  }
+
+  /* Section Title */
+
+  .mediic-section-title h1 {
+    font-size: 34px;
+    line-height: 47px;
+  }
+
+  .bx-2 .odometer-wrapper.counter-box-title h1 {
+    font-size: 45px;
+  }
+
+  .mediic-section-title h1 span img {
+    width: 11%;
+    margin: -6px 0 0 5px;
+  }
+
+  /* About Section */
+
+  .about-thumb img {
+    padding: 0 0 25px;
+    width: 100%;
+  }
+
+  .thumbs-bxs {
+    right: 0;
+    width: 165px;
+    height: 165px;
+    line-height: 183px;
+  }
+
+  .text-circle {
+    top: -10px;
+  }
+
+  .text-circle svg {
+    width: 115px;
+  }
+
+  .icon img {
+    width: 90px;
+  }
+
+  .about-details{
+    margin-top: 88px !important;
+  }
+
+  span.list-pd {
+    padding: 0 0 0 45px;
+  }
+
+  /* Marquee Section */
+
+  .marquee-section {
+    padding: 65px 20px;
+  }
+
+  .marquee-content h2 {
+    font-size: 50px;
+  }
+
+  .style-2.marquee-section {
+    padding: 26px 0px 35px;
+  }
+
+  /* Top Section */
+
+  .mediic-top-section {
+    padding: 110px 50px 0px 20px;
+  }
+
+  .top-mediic-section {
+    display: inherit;
+  }
+
+  .mediic-desc {
+    width: 100%;
+    padding: 15px 0 5px;
+  }
+
+  /* Service Section */
+
+  .service-section {
+    padding: 30px 20px 120px 20px;
+  }
+
+  .service-content {
+    left: 20px;
+  }
+
+  .service-content h2 a {
+    font-size: 22px;
+  }
+
+  .service-content h6 {
+    font-size: 15px;
+  }
+
+  .service-section .swiper {
+    height: 370px;
+  }
+
+  .swiper-button-next,
+  .swiper-button-prev {
+    top: var(--swiper-navigation-top-offset, 41%) !important;
+  }
+
+  .service-thumb:before {
+    right: -162px;
+  }
+
+  /* Style 2 */
+
+  .style-2.service-section {
+    padding: 30px 40px 120px 190px;
+  }
+
+  .mediic-service-box {
+    margin-bottom: 30px;
+  }
+
+  .style-2 .service-thumb:before {
+    right: -234px;
+  }
+
+  .box-2.mediic-service-box {
+    display: flex;
+  }
+
+  /* Team Section */
+
+  .team-content h2 {
+    font-size: 25px;
+  }
+
+  /* Appointment */
+
+  .mediic-appoinment {
+    background-size: cover;
+    background-position: right;
+  }
+
+  .mediic-shape-2 {
+    top: -70px;
+  }
+
+  /* Why Choose Us */
+
+  .why-choose-thumb {
+    left: 0;
+    padding-bottom: 30px;
+  }
+
+  .why-choose-thumb img {
+    width: 100%;
+  }
+
+  .mdy-shapae {
+    right: -110px;
+    bottom: 20px;
+  }
+
+  .mdy-shapae img {
+    width: 70%;
+  }
+
+  .thumbs-bxs3 {
+    top: 0;
+    left: 0;
+  }
+
+  .why-choose-us-serction .mediic-section-title p {
+    width: 100%;
+  }
+
+  /* Testimonial Section */
+
+  .testimonial-section {
+    padding: 60px 30px 120px;
+  }
+
+  .testi-single-box {
+    padding: 60px 40px 60px;
+  }
+
+  .testi-thumb img {
+    width: auto;
+    margin-bottom: 30px;
+  }
+
+  .mediic-button.text-right {
+    text-align: center !important;
+    padding: 15px 0 0;
+  }
+
+  .user-info {
+    padding: 25px 0 0;
+  }
+
+  .testi-desc p {
+    font-size: 19px;
+  }
+
+  /* Subscribe */
+
+  .subscribe-title h1 {
+    font-size: 29px;
+  }
+
+  /* Blog Section */
+
+  /* Footer Section */
+
+  .footer-section {
+    padding: 120px 0 55px;
+  }
+
+  .row.footer-btm {
+    text-align: center;
+  }
+
+  .mediic-company-desc p {
+    font-size: 17px;
+    padding: 10px 0 0;
+  }
+
+  .footer-thumb {
+    display: none;
+  }
+
+  .footer-thumb1 {
+    display: none;
+  }
+  /******************************
+  <--Inner Page Section-->  
+  ********************************/
+  .breatcome-section {
+    background-size: cover;
+    margin-top: 0;
+  }
+
+  .breatcome-content h1 {
+    font-size: 50px;
+  }
+
+  /* About Section */
+  .style-3.about-section .about-thumb img {
+    padding: 0;
+  }
+
+  .style-3.about-section .about-thumb {
+    padding-bottom: 30px;
+  }
+
+  .style-3 .counter-right-side {
+    width: auto;
+  }
+
+  /* Details Page  */
+
+  .blog-desc p {
+    font-size: 18px;
+    padding: 0;
+  }
+
+  .accordion li a {
+    font-size: 17px;
+    padding: 16px 16px 16px 20px;
+  }
+
+  .accordion li a span {
+    font-size: 18px;
+    padding: 0 7px 0 0px;
+  }
+
+  /* Error Page */
+  .error-section {
+    padding: 90px 0px 90px;
+  }
+
+  .error-content h1 {
+    font-size: 160px;
+    width: 460px;
+    height: 259px;
+  }
+
+  /* Appoinment Section */
+
+  .style-1 .testi-single-box {
+    margin-bottom: 35px;
+  }
+
+  .mediic-thumb img {
+    width: 100%;
+  }
+
+  iframe {
+    width: 600px;
+  }
+
+  /* Testimonial inner Page */
+
+  .upp.style-2 .testi-single-box {
+    padding: 58px 35px 38px;
+  }
+
+  .upp.style-2 .testi-bg .user-info {
+    padding: 0;
+    margin: 30px 12px 0 0;
+  }
+
+  .upp.style-2 .user-info {
+    padding: 25px 15px 25px 1px;
+    margin: 0px 10px 0 0;
+  }
+
+  .upp.style-2 .user-name h4 {
+    font-size: 20px;
+  }
+
+  .people-pic img {
+    margin-right: 0;
+    width: 62%;
+  }
+
+  .upp.style-2 .testi-desc p {
+    font-size: 18px;
+  }
+.sticky {
+    z-index: 2;
+}
+  /*  */
+}
+
+/* small mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 599px) {
+  /* Simple mobile fade-in */
+  .m-fade { opacity: 0; transform: none; transition: opacity .5s ease-in; }
+  .m-fade.is-visible { opacity: 1; }
+  .sticky {
+    position: absolute !important;
+  }
+
+  .mediic_nav_manu {
+    display: none;
+  }
+
+  /* Hero Section */
+
+  .hero-section {
+    margin-top: 63px;
+  }
+
+  .hero-content h1 {
+    font-size: 35px;
+  }
+
+  .hero-btm-boxs {
+    display: inherit;
+  }
+
+  .mediic-btn {
+    text-align: left;
+    padding: 10px 0 0;
+  }
+
+  .mediic-hero-content p {
+    color: #fff;
+  }
+
+  .mdy-about-contact {
+    display: block;
+  }
+
+  .hero-shape {
+    display: none;
+  }
+
+  span.team-mbr {
+    padding: 14px 17px;
+    font-size: 14px;
+  }
+
+  span.team-mbr img {
+    padding: 0 10px 0 0;
+    width: 50%;
+  }
+
+  /* Style 2 */
+
+  .content-inner {
+    padding: 70px 40px 0;
+  }
+
+  .hero-content2 h2 {
+    font-size: 47px;
+  }
+
+  .hero2.hero-section .mediic-service-bx {
+    right: 40px;
+  }
+
+  /* Counter Section */
+
+  .counter-serction {
+    background-size: cover;
+    margin-top: 0;
+  }
+
+  .counter-items {
+    display: inherit;
+  }
+
+  .counter-thumb img {
+    width: 100%;
+  }
+
+  .counter-title {
+    padding: 25px 0 0;
+  }
+
+  .counter-right-side {
+    padding-top: 50px;
+  }
+
+  .counter-title h2 {
+    font-size: 17px;
+    line-height: 26px;
+  }
+
+  .odometer-wrapper.counter-box-title h1 {
+    font-size: 40px;
+  }
+
+  p.counter-desc {
+    font-size: 15px;
+    line-height: 25px;
+    width: 30%;
+    margin: 0 0 0 7px;
+  }
+
+  /* Feature Sections */
+
+  .feature-single-box-2 {
+    display: inherit;
+  }
+
+  .mediic-service-box {
+    margin-bottom: 30px;
+  }
+
+  .feature-single-box-2 .feature-content {
+    padding-left: 0;
+    margin-top: 30px;
+  }
+
+  /* Section Title */
+
+  .mediic-section-title h1 {
+    font-size: 34px;
+    line-height: 47px;
+  }
+
+  .bx-2 .odometer-wrapper.counter-box-title {
+    justify-content: left;
+    padding: 12px 0 0;
+  }
+
+  .bx-2 .odometer-wrapper.counter-box-title h1 {
+    font-size: 45px;
+  }
+
+  .mediic-section-title h1 span img {
+    width: 9%;
+    margin: -6px 0 0 8px;
+  }
+
+  .mediic-section-title2 h3 {
+    font-size: 26px;
+    text-align: center;
+  }
+
+  .style-2.mediic-top-section {
+    padding: 110px 30px 0px 25px;
+  }
+
+  /* About Section */
+
+  .about-thumb img {
+    padding: 0 0 25px;
+    width: 100%;
+  }
+
+  .thumbs-bxs {
+    right: 0;
+    width: 143px;
+    height: 143px;
+    line-height: 166px;
+  }
+
+  .text-circle {
+    top: -11px;
+  }
+  
+  .text-circle-logo {
+    width:auto;
+    height: 110px;
+    line-height: 166px;
+  }
+
+  .text-circle svg {
+    width: 102px;
+  }
+
+  .icon img {
+    width: auto;
+  }
+
+  .about-service-list ul li {
+    font-size: 16px;
+  }
+
+  span.list-pd {
+    padding: 0 0 0 20px;
+  }
+
+  /* Marquee Section */
+
+  .marquee-section {
+    padding: 40px 10px;
+  }
+
+  .marquee-content h2 {
+    font-size: 32px;
+  }
+
+  .marquee-content h2 span img {
+    margin: -11px 11px 0 20px;
+    width: 10%;
+  }
+
+  .style-2.marquee-section {
+    padding: 26px 0px 35px;
+  }
+
+  /* Top Section */
+
+  .mediic-top-section {
+    padding: 110px 50px 0px 20px;
+  }
+
+  .top-mediic-section {
+    display: inherit;
+  }
+
+  .mediic-desc {
+    width: 100%;
+    padding: 15px 0 5px;
+  }
+
+  /* Service Section */
+
+  .service-section {
+    padding: 30px 20px 120px 20px;
+  }
+
+  .service-content {
+    left: 20px;
+  }
+
+  .service-content h2 a {
+    font-size: 22px;
+  }
+
+  .service-content h6 {
+    font-size: 15px;
+  }
+
+  .service-section .swiper {
+    height: 575px;
+  }
+
+  .swiper-button-next,
+  .swiper-button-prev {
+    top: var(--swiper-navigation-top-offset, 41%) !important;
+  }
+
+  .service-thumb:before {
+    right: -328px;
+  }
+
+  /* Style 2 */
+
+  .style-2.service-section {
+    padding: 30px 0px 120px 100px;
+  }
+
+  .owl-nav {
+    left: -79px;
+    top: 124px;
+  }
+
+  .style-2 .service-thumb:before {
+    right: -244px;
+  }
+
+  .box-2.mediic-service-box {
+    display: flex;
+  }
+
+  /* Appointment */
+
+  .mediic-appoinment {
+    background-size: cover;
+    background-position: right;
+  }
+
+  .mediic-shape-2 {
+    top: -70px;
+    left: 350px;
+  }
+
+  /* Why Choose Us */
+
+  .why-choose-thumb {
+    left: 0;
+    padding-bottom: 30px;
+  }
+
+  .why-choose-thumb img {
+    width: 100%;
+  }
+
+  .mdy-shapae {
+    right: -110px;
+    bottom: 20px;
+  }
+
+  .mdy-shapae img {
+    width: 70%;
+  }
+
+  .thumbs-bxs3 {
+    top: 0;
+    left: 0;
+  }
+
+  .why-choose-us-serction .mediic-section-title p {
+    width: 100%;
+  }
+
+  /* Team Section */
+
+  .team-section .swiper {
+    padding: 50px 20px 55px;
+  }
+
+  /* Testimonial Section */
+
+  .testimonial-section {
+    padding: 60px 0px 120px;
+  }
+
+  .testi-single-box {
+    padding: 60px 35px 60px;
+  }
+
+  .testi-thumb img {
+    width: auto;
+    margin-bottom: 30px;
+  }
+
+  .testi-desc p {
+    font-size: 19px;
+  }
+
+  .mediic-button.text-right {
+    text-align: center !important;
+    padding: 15px 0 0;
+  }
+
+  .user-info {
+    padding: 31px 0 0;
+  }
+
+  /* Subscribe */
+
+  .subscribe-title h1 {
+    font-size: 23px;
+    line-height: 28px;
+  }
+
+  /* Blog Section */
+
+  .blog-section .mediic-btn {
+    padding: 30px 0 0;
+  }
+
+  /* Footer Section */
+
+  .footer-section {
+    padding: 120px 0 55px;
+  }
+
+  .row.footer-btm {
+    text-align: center;
+  }
+
+  .mediic-company-desc p {
+    padding: 10px 0 0;
+    text-align: center;
+  }
+
+  .footer-thumb {
+    display: none;
+  }
+
+  .footer-thumb1 {
+    display: none;
+  }
+
+  /******************************
+  <--Inner Page Section-->  
+  ********************************/
+  .breatcome-section {
+    background-size: cover;
+    margin-top: 0;
+  }
+
+  .breatcome-content h1 {
+    font-size: 42px;
+  }
+
+  /* About Section */
+  .style-3.about-section .about-thumb img {
+    padding: 0;
+  }
+
+  .style-3.about-section .about-thumb {
+    padding-bottom: 30px;
+  }
+
+  .style-3 .counter-right-side {
+    width: auto;
+  }
+
+  /* Testimonial */
+  .style-2 .testi-single-box {
+    padding: 35px 30px 20px;
+  }
+
+  .style-2 .testi-quote2 {
+    right: 12px;
+  }
+
+  .style-2 .testi-quote2 img {
+    width: 78%;
+  }
+
+  .testi-thumb img {
+    width: 100%;
+  }
+
+  /* Details Page  */
+
+  .mediic-title h2 {
+    font-size: 25px;
+  }
+
+  .mediic-blog {
+    padding: 30px 30px 14px;
+  }
+
+  .blog-desc p {
+    font-size: 17px;
+    padding: 0;
+  }
+
+  .accordion li a {
+    font-size: 17px;
+    padding: 16px 16px 16px 20px;
+  }
+
+  .accordion li a span {
+    font-size: 18px;
+    padding: 0 7px 0 0px;
+  }
+
+  /* Error Page */
+  .error-section {
+    padding: 90px 0px 90px;
+  }
+
+  .error-content h1 {
+    font-size: 112px;
+    width: 370px;
+    height: 223px;
+    line-height: 220px;
+  }
+
+  /* Appoinment Section */
+
+  .style-1 .testi-single-box {
+    margin-bottom: 35px;
+  }
+
+  .mediic-thumb img {
+    width: 100%;
+  }
+
+  iframe {
+    width: 480px;
+  }
+
+  .accordion2 li a {
+    font-size: 18px;
+  }
+
+  /* Testimonial inner Page */
+
+  .upp.style-2 .testi-single-box {
+    padding: 58px 35px 38px;
+  }
+
+  .upp.style-2 .testi-bg .user-info {
+    padding: 0;
+    margin: 30px 12px 0 0;
+  }
+
+  .upp.style-2 .user-info {
+    padding: 25px 15px 25px 1px;
+    margin: 0px 10px 0 0;
+  }
+
+  .testimonial-section.style-2.upp .user-name h4 {
+    font-size: 17px;
+  }
+
+  .testimonial-section.style-2.upp .people-pic img {
+    margin-right: 0;
+    width: 62%;
+  }
+
+  .upp.style-2 .user-name h6 {
+    font-size: 15px;
+  }
+
+  .upp.style-2 .testi-desc p {
+    font-size: 18px;
+  }
+  .sticky {
+    z-index: 2;
+}
+
+  /*  */
+}
+
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  /* Simple mobile fade-in */
+  .m-fade { opacity: 0; transform: none; transition: opacity .5s ease-in; }
+  .m-fade.is-visible { opacity: 1; }
+  .sticky {
+    position: absolute !important;
+  }
+
+  .mediic_nav_manu {
+    display: none;
+  }
+
+
+  /* Hero Section */
+
+  .hero-section {
+    height: 590px;
+  }
+
+  .hero-section {
+    margin-top: 63px;
+  }
+
+  .hero-content h1 {
+    font-size: 66px;
+  }
+
+  .hero-content h1 span img {
+    width: 18%;
+  }
+
+  .medic-home{
+    padding: 0 !important;
+    padding-top: 50px !important;
+  }
+
+  .accordion a:before{
+    right: 24px !important;
+  }
+
+  .accordion a:after{
+    right: 18px !important;
+  }
+
+  .accordion2 a:after{
+    right: 8px !important;
+  }
+
+  .accordion2 a:before{
+    right: 14px !important;
+  }
+
+  .help-img{
+    width: 100%;
+    border-radius: 10px;
+  }
+
+  .info-about{
+    font-size: 21px;
+  }
+
+  .slider-name{
+    margin-bottom: 20px;
+  }
+
+  .hero-btm-boxs {
+    display: inherit;
+    margin-top: 80px;
+  }
+
+  .mediic-btn {
+    text-align: center;
+    padding: 10px 0 0;
+  }
+
+  .mediic-hero-content p {
+    color: #fff !important;
+    font-size: 15px;
+    width: 100%;
+  }
+
+  .mediic-btn a {
+    padding: 15px 30px;
+    font-size: 15px;
+  }
+
+  
+  .service-boxes{
+    /* padding-top: 80px !important; */
+  }
+
+  .close{
+    top: 90px;
+  }
+
+  /* .aos-animate{
+    margin-bottom: 0 !important;
+  } */
+
+  .mediic-section{
+    padding: 0 !important;
+  }
+
+
+  span.team-mbr {
+    padding: 14px 15px;
+    font-size: 13px;
+    margin-right: 10px;
+  }
+
+  span.team-mbr img {
+    padding: 0 10px 0 0;
+    width: 50%;
+  }
+
+  .team{
+    margin-bottom: 65 !important;
+  }
+
+  /* Style 2 */
+
+  .content-inner {
+    padding: 85px 25px 0;
+    left: 0;
+    border-radius: 0;
+  }
+
+  .hero-content2 h2 {
+    font-size: 31px;
+  }
+
+  .hero2.hero-section .mediic-service-bx {
+    padding: 30px 30px 0;
+    right: 0;
+  }
+
+  /* Counter Section */
+
+  .counter-serction {
+    background-size: cover;
+    margin-top: 0;
+  }
+
+  .counter-items {
+    display: inherit;
+  }
+
+  .counter-left-side {
+    display: inherit;
+    justify-content: center;
+  }
+
+  .counter-thumb img {
+    width: 100%;
+  }
+
+  .counter-title {
+    padding: 25px 0 0;
+  }
+
+  .counter-right-side {
+    padding-top: 50px;
+  }
+
+  .counter-title h2 {
+    font-size: 27px;
+    line-height: 32px;
+    padding: 0;
+    color: black;
+  }
+
+
+  .odometer-wrapper.counter-box-title h1 {
+    font-size: 40px;
+  }
+
+  p.counter-desc {
+    font-size: 15px;
+    line-height: 25px;
+    width: 30%;
+    margin: 0 0 0 7px;
+  }
+
+  /* Feature Sections */
+
+  .feature-single-box {
+    padding: 40px 29px 27px;
+  }
+
+  .bx-2.feature-single-box {
+    padding: 40px 30px 26px;
+  }
+
+  .bx-2 .feature-head {
+    display: inherit;
+  }
+
+  .feature-btn {
+    padding: 0 0 25px;
+  }
+
+  .head-title h2 {
+    font-size: 22px;
+  }
+
+  
+  .m_v-ssion-title h3{
+    white-space: inherit;
+  }
+
+  .bx-3 .feature-content p {
+    font-size: 16px;
+  }
+
+  .feature-thumb img {
+    width: 100%;
+  }
+
+  /* Style 2 */
+
+  .feature-single-box-2 {
+    display: inherit;
+  }
+
+  .feature-single-box-2 .feature-content {
+    padding-left: 0;
+    margin-top: 25px;
+  }
+
+  /* Section Title */
+
+  .mediic-section-title h1 {
+    font-size: 28px;
+    line-height: 40px;
+  }
+
+  .bx-2 .odometer-wrapper.counter-box-title {
+    justify-content: left;
+    padding: 12px 0 0;
+  }
+
+  .bx-2 .odometer-wrapper.counter-box-title h1 {
+    font-size: 45px;
+  }
+
+
+  .mediic-section-title h1 span img {
+    width: 9%;
+    margin: -6px 0 0 8px;
+  }
+
+  .home2{
+    border-radius: 73px;
+  }
+
+  .about-details{
+    bottom: 0;
+  }
+
+  .mediic-section-title2 h3 {
+    font-size: 21px;
+  }
+
+  /* About Section */
+
+  .about-thumb img {
+    padding: 0 0 25px;
+    width: 100%;
+  }
+
+  .thumbs-bxs {
+    right: 0;
+    width: 143px;
+    height: 143px;
+    line-height: 166px;
+  }
+
+  .text-circle {
+    top: -11px;
+  }
+
+  .text-circle svg {
+    width: 102px;
+  }
+
+  .icon img {
+    width: 80px;
+  }
+
+  .about-service-list ul li {
+    font-size: 16px;
+  }
+
+  span.list-pd {
+    padding: 0 0 0 20px;
+  }
+
+  .mediic-service-box {
+    margin-bottom: 30px;
+  }
+
+  .mdy-about-contact {
+    display: inline-block;
+  }
+
+  .mediic-contact {
+    padding: 40px 0 0 0px;
+  }
+
+  /* Marquee Section */
+
+  .marquee-section {
+    padding: 65px 10px;
+  }
+
+  .gyna-section{
+    padding-top: 0 !important;
+  }
+
+  .marquee-content h2 {
+    font-size: 32px !important;
+  }
+
+  .marquee-content h2 span img {
+    margin: -11px 11px 0 20px;
+    width: 10%;
+  }
+
+  .style-2.marquee-section {
+    padding: 26px 0px 35px;
+  }
+
+  /* Top Section */
+
+  .mediic-top-section {
+    padding: 110px 50px 0px 20px;
+  }
+
+  .top-mediic-section {
+    display: inherit;
+  }
+
+  .mediic-desc {
+    width: 100%;
+    padding: 15px 0 5px;
+  }
+
+  .style-2.mediic-top-section {
+    padding: 110px 0 0px 0px;
+  }
+
+  /* Service Section */
+
+  .service-section {
+    padding: 30px 20px 120px 20px;
+  }
+
+  .service-content {
+    left: 20px;
+    bottom: 60px;
+}
+
+  .service-content h2 a {
+    font-size: 22px;
+  }
+
+  .service-content h6 {
+    font-size: 15px;
+  }
+
+  .service-section .swiper {
+    height: 360px;
+  }
+
+  .swiper-button-next,
+  .swiper-button-prev {
+    top: var(--swiper-navigation-top-offset, 41%) !important;
+  }
+
+  .service-thumb:before {
+    right: -168px;
+  }
+
+  /* Style 2 */
+
+  .style-2.service-section {
+    padding: 30px 0px 120px 20px;
+  }
+
+  .style-2 .service-thumb:before {
+    right: -164px;
+  }
+
+  /* Appointment */
+
+  .mediic-appoinment {
+    background-size: cover;
+  }
+
+  .mediic-shape-2 {
+    top: -70px;
+    left: 350px;
+  }
+
+  /* Why Choose Us */
+
+  .why-choose-thumb {
+    left: 0;
+    padding-bottom: 30px;
+  }
+
+  .why-choose-thumb img {
+    width: 100%;
+  }
+
+  .mdy-shapae {
+    right: -202px;
+    bottom: 20px;
+  }
+
+  .mdy-shapae img {
+    width: 42%;
+  }
+
+  .thumbs-bxs3 {
+    top: 0;
+    left: 0;
+  }
+
+  .why-choose-us-serction .mediic-section-title p {
+    width: 100%;
+  }
+
+  .box-2.mediic-service-box {
+    padding: 35px 20px 30px;
+  }
+
+  .team-thumbnail img{
+    width: 180px;
+  }
+
+  .expanded-info{
+    text-align: center;
+  }
+
+  .team-close-btn{
+    top: 80px;
+  }
+
+  .expanded-info li{
+text-align: left;
+  }
+
+  .expanded-info h3{
+    font-size: 22px;
+  }
+
+  /* Team Section */
+
+  .team-section .swiper {
+    padding: 50px 20px 55px;
+  }
+
+  .team-content h2 {
+    font-size: 20px;
+  }
+
+  .social-icon ul li i {
+    font-size: 15px;
+    width: 32px;
+    line-height: 32px;
+    height: 32px;
+  }
+
+  /* Testimonial Section */
+
+  .testimonial-section {
+    padding: 60px 0px 120px;
+  }
+  .testi-content {
+    padding: 25px 20px 35px;
+    width: auto;
+    height: auto;
+    left: 0;
+    right: 0;
+}
+.sticky {
+    z-index: 2;
+}
+  .testi-content h4 {
+    font-size: 21px;
+  }
+
+  .testi-single-box {
+    padding: 40px 20px 40px;
+    margin-top: 70px;
+  }
+
+  .testi-thumb img {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
+  .user-name h4 {
+    font-size: 17px;
+  }
+
+  .testi-desc p {
+    font-size: 16px;
+  }
+
+  .user-info {
+    padding: 31px 0 0;
+  }
+
+  /* Subscribe */
+
+  .mediic-subscribe {
+    text-align: center;
+  }
+
+  .subscribe-title h1 {
+    font-size: 21px;
+    line-height: 32px;
+    padding: 16px 0 0;
+  }
+
+  .banner-vector img{
+    width: 120px !important;
+  }
+
+  
+.doctor-box{
+  margin-bottom: 27px;
+}
+
+.doctor-box p{
+  line-height: 17px;
+  font-size: 13px;
+}
+
+  .subscribe-content {
+    display: inherit;
+  }
+
+  .mediic-button.text-right {
+    text-align: left !important;
+    padding: 15px 0 0;
+  }
+
+  .mediic-subscribe .mediic-button.text-right {
+    text-align: center !important;
+    padding: 15px 0 0;
+  }
+
+  /* Blog Section */
+
+  .blog-title h2 a {
+    font-size: 20px;
+  }
+
+  .blogs-category ul li {
+    font-size: 15px;
+    margin: 0 10px 0 23px;
+  }
+
+  .company-info-desc p {
+    font-size: 18px;
+  }
+
+  /* Footer Section */
+
+  .footer-section {
+    padding: 120px 0 55px;
+  }
+
+  .row.footer-btm {
+    text-align: center;
+  }
+
+  .mediic-company-desc p {
+    padding: 10px 0 0;
+    text-align: center;
+  }
+
+  .footer-thumb {
+    /* display: none; */
+  }
+
+  .footer-thumb1 {
+    display: none;
+  }
+
+  .footer-vector{
+  width: 145px;
+  left: 35px;
+  top: 0;
+}
+
+  /******************************
+  <--Inner Page Section-->  
+  ********************************/
+  .breatcome-section {
+    background-size: cover;
+    margin-top: 0;
+  }
+
+  .breatcome-content h1 {
+    font-size: 28px;
+    line-height: 35px;
+  }
+
+  .faq-section .tab_container{
+    padding: 40px 0 0px;
+  }
+
+  .mediic-shape-2{
+    display: none;
+  }
+
+  /* About Section */
+  .style-3.about-section .about-thumb img {
+    padding: 0;
+  }
+
+  .style-3.about-section .about-thumb {
+    padding-bottom: 30px;
+  }
+
+  .style-3 .counter-right-side {
+    width: auto;
+    text-align: center;
+  }
+
+  .style-3 .odometer-wrapper.counter-box-title h1 {
+    font-size: 30px;
+  }
+
+  .style-3 .odometer-wrapper.counter-box-title {
+    display: inline-block;
+  }
+
+  .mission-vission-single-box {
+    padding: 35px 25px 15px;
+  }
+
+  .m_v-ssion-desc p {
+    font-size: 16px;
+  }
+
+  /* Testimonial */
+  .style-2 .testi-single-box {
+    padding: 35px 30px 20px;
+  }
+
+  .style-2 .testi-quote2 {
+    right: 12px;
+  }
+
+  .style-2 .testi-quote2 img {
+    width: 78%;
+  }
+
+  .style-2 .testi-thumb img {
+    width: 100%;
+  }
+
+  /* Service Inner Page */
+
+  .single-services-box {
+    /* padding: 38px 25px 0px; */
+  }
+
+.internal-content{
+  padding: 30px;
+}
+
+
+  .services-title h3 {
+    font-size: 18px;
+  }
+
+  .services-desc p {
+    font-size: 17px;
+    padding: 0;
+    margin-bottom: 0;
+    line-height: 21px;
+  }
+
+  .mediic-description li{
+    font-size: 16px;
+        line-height: 21px;
+  }
+
+  /* Details Page  */
+
+  .mediic-title h2 {
+    font-size: 22px;
+  }
+
+  .mediic-thumb img {
+    border-radius: 20px;
+    width: 100%;
+  }
+
+  .nurse {
+    height: 283px;
+    width: 482px;
+    padding-left: 62px;
+}
+
+.hero-shape {
+  left: -64px;
+  top: 117px;
+}
+
+  .mediic-single-box {
+    padding: 35px 25px 20px;
+  }
+  .mediic-icons {
+    float: inherit;
+    margin-bottom: 30px;
+  }
+
+  .mediic-content h3 {
+    font-size: 20px;
+  }
+
+  .mediic-content p {
+    font-size: 16px;
+  }
+
+  .mediic-blog {
+    padding: 30px 25px 14px;
+    display: inherit;
+  }
+
+  .blog-icon {
+    display: inline-block;
+    margin-bottom: 22px;
+  }
+
+  .blog-desc p {
+    font-size: 17px;
+    padding: 0;
+  }
+
+  .accordion li a {
+    font-size: 17px;
+    padding: 16px 10px 16px 12px;
+  }
+
+  .accordion li a span {
+    font-size: 18px;
+    padding: 0 7px 0 0px;
+  }
+
+  .accordion li p {
+    font-size: 15px;
+    padding: 24px 5px 10px 5px;
+  }
+
+  .help-para{
+    width: 100%;
+  }
+
+  .mediic-category-box {
+    padding: 20px 25px 24px;
+  }
+
+  /* Error Page */
+  .error-service-content {
+    height: 630px;
+  }
+  .error-section {
+    padding: 90px 0px 90px;
+  }
+
+  .error-content h1 {
+    font-size: 72px;
+    width: 220px;
+    height: 169px;
+    line-height: 169px;
+  }
+
+  /* Appoinment Section */
+
+  .style-1 .testi-single-box {
+    margin-bottom: 35px;
+    padding: 60px 30px 60px;
+  }
+
+  /* Blog Inner Page Section */
+
+  .style-2 .blog-single-box {
+    padding: 25px 15px 35px 25px;
+  }
+
+  .blogs-category ul li {
+    font-size: 14px;
+    margin: 0 10px 0 22px;
+  }
+
+  .blog-content {
+    padding: 23px 5px 0 0;
+  }
+
+  .mediic-section.style-2 .blog-title h2 a {
+    font-size: 17px;
+    line-height: 24px;
+  }
+
+  .mediic-category-box.responsive {
+    padding: 20px 13px 24px 25px;
+    margin-bottom: 20px;
+  }
+
+  .category-content {
+    padding-left: 10px;
+  }
+
+  .post-thumb a img {
+    width: 60px !important;
+    height: 60px !important;
+  }
+
+  .category-content h4 a {
+    font-size: 15px;
+    line-height: 19px;
+  }
+
+  .category-content h6 {
+    font-size: 13px;
+  }
+
+  .blogs-category ul li {
+    font-size: 14px;
+  }
+
+  .mediic-thumb img {
+    width: 100%;
+  }
+
+  .post-comment {
+    display: inherit;
+  }
+
+  .post-content {
+    margin: 25px 0 0px 30px;
+  }
+
+  p.posts-reply {
+    font-size: 15px;
+  }
+
+  .post-comment2 {
+    display: inherit;
+    margin-left: 0;
+  }
+
+  .column .breatcome-content h1 {
+    font-size: 26px;
+  }
+
+  .custom-scroll {
+    padding: 0 5px 0 0;
+  }
+
+  iframe {
+    width: 320px;
+  }
+
+  .accordion2 li a {
+    font-size: 16px;
+    padding: 16px 0px 16px 10px;
+  }
+
+  .map{
+    width: 350px;
+    height: 300px;
+  }
+
+  .team-second{
+    margin-top: 0px;
+  } 
+
+  .meet{
+    gap: 20px;
+  }
+
+  .meet .mediic-btn{
+    text-align: center;
+    padding: 23px 0 0;
+  }
+  .team-section{
+    padding: 0px 0 0 0;
+  }
+
+  .expanded-info p{
+    font-size: 11.5px;
+    margin-top: 0;
+  }
+
+  .meet{
+    text-align: center;
+  }
+
+  .head{
+    margin-left: 0 !important;
+  }
+
+  /* Project Section inner Page */
+
+  .project-content {
+    width: 100%;
+  }
+
+  .project-content h2 {
+    font-size: 18px;
+  }
+
+  .project-icon a {
+    top: 20px;
+  }
+
+  .details .breatcome-content h1 {
+    font-size: 27px;
+  }
+
+  .doctor-content h3 {
+    font-size: 16px;
+  }
+
+  .team-details {
+    padding: 30px;
+  }
+
+  .team-details-content {
+    padding: 0 0 0 0px;
+  }
+
+  .home-para1{
+    font-size: 20px;
+  }
+
+  .prossess-ber-plugin span {
+    font-size: 16px;
+  }
+
+  .barfiller .tip {
+    font-size: 16px;
+  }
+
+  .head-title h3 {
+    font-size: 26px;
+  }
+
+  /* Testimonial inner Page */
+
+  .upp.style-2 .testi-single-box {
+    padding: 58px 25px 38px;
+  }
+
+  .upp.style-2 .testi-bg .user-info {
+    padding: 0;
+    margin: 30px 12px 0 0;
+  }
+
+  .subscribe-title h1{
+    white-space: inherit;
+  }
+
+  .boxes-services{
+    /* margin-top: 150px; */
+  }
+
+  .services-section{
+    padding: 50px 0 0px;
+  }
+
+  .services-section{
+    margin-top: 20px;
+  }
+
+  .mediic-title h2{
+    padding: 50px 0 21px;
+    text-align: left;
+  }
+
+  .about-serction{
+    padding: 0 0 0px;
+  }
+
+  .upp.style-2 .user-info {
+    padding: 25px 15px 25px 1px;
+    margin: 0px 10px 0 0;
+  }
+
+  .banner-vector{
+    width: 140px;
+  }
+
+  .testimonial-section.style-2.upp .user-name h4 {
+    font-size: 17px;
+  }
+
+  .testimonial-section.style-2.upp .people-pic img {
+    margin-right: 0;
+    width: 62%;
+  }
+
+  .upp.style-2 .user-name h6 {
+    font-size: 15px;
+  }
+
+  .subscribe-title{
+    display: grid !important;
+  }
+
+  .upp.style-2 .testi-desc p {
+    font-size: 16px;
+  }
+
+  .upp.style-2 .testi-bg .testi-single-box {
+    padding: 5px 25px 40px;
+  }
+
+  .upp.style-2 .testi-quote2 {
+    right: 3px;
+    bottom: 42px;
+  }
+
+  /*  */
+}
