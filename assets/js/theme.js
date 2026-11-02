@@ -488,6 +488,7 @@
     });
 
     //=====< barfiller script >====
+    if ($.fn.barfiller) {
     $("#bar1").barfiller({
       duration: 7000,
     });
@@ -503,6 +504,7 @@
     $("#bar5").barfiller({
       duration: 7000,
     });
+    } // end if ($.fn.barfiller)
 
     //======< Custom Tab >======
     $(".tab ul.tabs").addClass("active").find("> li:eq(0)").addClass("current");

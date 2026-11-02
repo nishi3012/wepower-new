@@ -1,6 +1,5 @@
 <?php include 'header.php'; ?>
 <title>We Power</title>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/locomotive-scroll@4.1.4/dist/locomotive-scroll.min.css">
 
 <div id="smooth-wrapper">
     <div id="smooth-content" data-scroll-container>
@@ -406,7 +405,7 @@
                             <img src="img\wepower-02.webp" alt="" loading="lazy" />
                             <div class="thumbs-bxs">
                                 <div class="icon">
-                                    <img class="text-circle-logo" src="assets/images/wepower/logo-icon.png" alt="" />
+                                    <img class="text-circle-logo" src="assets/images/wepower/logo-icon.png" alt="" loading="lazy" />
                                 </div>
                                 <div class="text-circle">
                                     <svg
@@ -653,7 +652,7 @@
                             <!-- <div class="swiper-slide swiper-slide-visible swiper-slide-fully-visible swiper-slide-next" role="group" aria-label="6 / 6" style="width: 420px; transition-duration: 0ms; transform: translate3d(0px, 0px, -107.143px) rotateX(0deg) rotateY(-53.5714deg) scale(1); z-index: 0; margin-right: 30px;">
                                 <div class="team-single-box aos-init aos-animate" data-aos="zoom-in">
                                     <div class="team-thumb">
-                                        <img src="assets/images/wepower/endocrinologist.jpg" alt="">
+                                        <img src="assets/images/wepower/endocrinologist.jpg" alt="" loading="lazy">
 
                                     </div>
                                     <div class="team-content text-center">
@@ -673,10 +672,6 @@
         </div>
 
 
-        <script src="assets/js/swiper.min.js"></script>
-
-        <!--==================================================-->
-        <!-- End mediic Marquee Section  -->
         <!--==================================================-->
 
         <!--==================================================-->
@@ -709,11 +704,10 @@
                     </div>
                 </div>
                 <div class="col-lg-4">
-                    <img class="help-img" src="assets/images/wepower/helpdesk.webp" alt="">
+                    <img class="help-img" src="assets/images/wepower/helpdesk.webp" alt="" loading="lazy">
                 </div>
             </div>
         </div>
-        <script src="assets/js/swiper.min.js"></script>
 
         <!--==================================================-->
         <!-- End mediic Service Section  -->
@@ -726,7 +720,7 @@
             <div class="container">
                 <div class="row">
                     <div class="mediic-shape-cntr">
-                        <img src="assets/images/resource/crcle-bg.png" alt="">
+                        <img src="assets/images/resource/crcle-bg.png" alt="" loading="lazy">
                     </div>
                 </div>
             </div>
@@ -849,7 +843,7 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <div class="testi-thumb" data-aos="zoom-in-right">
-                            <img src="assets/images/resource/testi.jpg" alt="" />
+                            <img src="assets/images/resource/testi.jpg" alt="" loading="lazy" />
                             <div class="testi-content">
                                 <h4>Get Free Consultation</h4>
                                 <div class="mediic-btn cursor-scale small">
@@ -1175,7 +1169,7 @@
                             class="widget widgets-company-info"
                             data-aos="zoom-in-right">
                             <div class="company-logo cursor-scale small">
-                                <a href="https://wepowerclinic.com/"><img src="assets/images/logo1.png" class="logo2" alt="logo" /></a>
+                                <a href="index.php"><img src="assets/images/logo1.png" class="logo2" alt="logo" /></a>
                             </div>
                         </div>
                     </div>
@@ -1184,7 +1178,7 @@
                             <h4 class="widget-title">Quick Links</h4>
                             <div class="menu-quick-link-content">
                                 <ul class="footer-menu cursor-scale small">
-                                    <li><a href="https://wepowerclinic.com/"> Home </a></li>
+                                    <li><a href="index.php"> Home </a></li>
                                     <li><a href="about.php"> About Us </a></li>
                                     <li><a href="services.php"> Services </a></li>
                                     <li><a href="our-team.php"> Our Team </a></li>
@@ -1224,7 +1218,7 @@
                     </div>
                     <div class="foorer-shape">
                         <div class="footer-thumb aos-init aos-animate" data-aos="zoom-in-right">
-                            <img class="footer-vector" src="assets/images/wepower/footer-vector.png" alt="">
+                            <img class="footer-vector" src="assets/images/wepower/footer-vector.png" alt="" loading="lazy">
                         </div>
 
                     </div>
@@ -1363,11 +1357,7 @@
 
 <script src="assets/js/bootstrap.min.js"></script>
 
-<script src="assets/js/imagesloaded.pkgd.min.js"></script>
-
-<script src="venobox/venobox.js"></script>
-
-<script src="venobox/venobox.min.js"></script>
+<script src="assets/js/swiper.min.js"></script>
 
 <script src="assets/js/jquery.meanmenu.js"></script>
 
@@ -1379,19 +1369,6 @@
 
 <script src="assets/js/my.js"></script>
 <script src="assets/js/push.js"></script>
-<!-- Locomotive Scroll JS -->
-<script src="https://cdn.jsdelivr.net/npm/locomotive-scroll@4.1.4/dist/locomotive-scroll.min.js"></script>
-<script>
-  // Only enable LocomotiveScroll on desktop for smoother sections; keep mobile simple
-  if (window.innerWidth > 768 && window.LocomotiveScroll) {
-    const scroll = new LocomotiveScroll({
-      el: document.querySelector('[data-scroll-container]'),
-      smooth: true,
-      smartphone: { smooth: false },
-      tablet: { smooth: false }
-    });
-  }
-</script>
 </body>
 
 

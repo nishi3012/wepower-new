@@ -76,8 +76,6 @@
         media="all" />
     <link rel="stylesheet" href="assets/css/swiper.min.css" />
 
-    <script src="assets/js/swiper.min.js"></script>
-
     <!-- modernizr js -->
     <script src="assets/js/vendor/modernizr-3.5.0.min.js"></script>
     <link
@@ -102,10 +100,10 @@
             <div class="row align-items-center">
                 <div class="col-lg-2">
                     <div class="logo cursor-scale small">
-                        <a class="logo_img" href="https://wepowerclinic.com/" title="mediic">
+                        <a class="logo_img" href="index.php" title="mediic">
                             <img src="assets/images/logo.png" class="logo" alt="logo" />
                         </a>
-                        <a class="main_sticky" href="https://wepowerclinic.com/" title="mediic">
+                        <a class="main_sticky" href="index.php" title="mediic">
                             <img src="assets/images/logo.png" class="logo" alt="logo" />
                         </a>
                     </div>
@@ -114,7 +112,7 @@
                     <nav class="mediic_menu">
                         <ul class="nav_scroll">
                             <li>
-                                <a class="mdy-hover cursor-scale small" href="https://wepowerclinic.com/">Home </a>
+                                <a class="mdy-hover cursor-scale small" href="index.php">Home </a>
                             </li>
                             <li>
                                 <a class="mdy-hover cursor-scale small" href="about.php">About Us</a>
@@ -151,7 +149,7 @@
             <nav class="mediic_menu">
                 <ul class="nav_scroll">
                     <li>
-                        <a class="mdy-hover cursor-scale small" href="https://wepowerclinic.com/">Home </a>
+                        <a class="mdy-hover cursor-scale small" href="index.php">Home </a>
                     </li>
                     <li>
                         <a class="mdy-hover cursor-scale small" href="about.php">About Us</a>
@@ -346,7 +344,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="widget widgets-company-info aos-init" data-aos="zoom-in-right">
                         <div class="company-logo cursor-scale small">
-                            <a href="https://wepowerclinic.com/"><img src="assets/images/logo1.png" class="logo2" alt="logo2"></a>
+                            <a href="index.php"><img src="assets/images/logo1.png" class="logo2" alt="logo2"></a>
                         </div>
                     </div>
                 </div>
@@ -355,7 +353,7 @@
                         <h4 class="widget-title">Quick Links</h4>
                         <div class="menu-quick-link-content">
                             <ul class="footer-menu cursor-scale small">
-                                <li><a href="https://wepowerclinic.com/"> Home </a></li>
+                                <li><a href="index.php"> Home </a></li>
                                 <li><a href="about.php"> About Us </a></li>
                                 <li><a href="services.php"> Services </a></li>
                                 <li><a href="our-team.php"> Our Team </a></li>
@@ -395,7 +393,7 @@
                 </div>
                 <div class="foorer-shape">
                         <div class="footer-thumb aos-init aos-animate" data-aos="zoom-in-right">
-                            <img class="footer-vector" src="assets/images/wepower/footer-vector.png" alt="">
+                            <img class="footer-vector" src="assets/images/wepower/footer-vector.png" alt="" loading="lazy">
                         </div>
 
                     </div>
@@ -522,25 +520,13 @@
 
     <script src="assets/js/vendor/jquery-3.6.2.min.js"></script>
 
-    <script src="assets/js/odometer.min.js"></script>
-
     <script src="assets/js/bootstrap.min.js"></script>
-
-    <script src="assets/js/owl.carousel.min.js"></script>
-
-    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
-
-    <script src="venobox/venobox.js"></script>
-
-    <script src="venobox/venobox.min.js"></script>
 
     <script src="assets/js/jquery.meanmenu.js"></script>
 
     <script src="assets/js/jquery.scrollUp.js"></script>
 
     <script src="assets/js/appear.js"></script>
-
-    <script src="assets/js/jquery.barfiller.js"></script>
 
     <script src="assets/js/theme.js"></script>
 

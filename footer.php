@@ -4,7 +4,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="widget widgets-company-info aos-init aos-animate" data-aos="zoom-in-right">
               <div class="company-logo cursor-scale small">
-                <a href="https://wepowerclinic.com/"><img src="assets/images/logo1.png" class="logo2" alt="logo"></a>
+                <a href="index.php"><img src="assets/images/logo1.png" class="logo2" alt="logo"></a>
               </div>
             </div>
           </div>
@@ -13,7 +13,7 @@
               <h4 class="widget-title">Quick Links</h4>
               <div class="menu-quick-link-content">
                 <ul class="footer-menu cursor-scale small">
-                  <li><a href="https://wepowerclinic.com/"> Home </a></li>
+                  <li><a href="index.php"> Home </a></li>
                   <li><a href="about.php"> About Us </a></li>
                   <li><a href="services.php"> Services </a></li>
                   <li><a href="our-team.php"> Our Team </a></li>

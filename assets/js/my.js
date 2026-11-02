@@ -17,17 +17,22 @@ window.addEventListener("mousemove", (e) => {
 });
 
 cursorScale.forEach((link) => {
-  link.addEventListener("mousemove", () => {
-    cursor.classList.add("grow");
+  link.addEventListener("mouseenter", () => {
     if (link.classList.contains("small")) {
       cursor.classList.remove("grow");
       cursor.classList.add("grow-small");
+      gsap.to(cursor, { scaleX: 2, scaleY: 2, duration: 0.25, ease: "power2.out" });
+    } else {
+      cursor.classList.remove("grow-small");
+      cursor.classList.add("grow");
+      gsap.to(cursor, { scaleX: 3, scaleY: 3, duration: 0.25, ease: "power2.out" });
     }
   });
 
   link.addEventListener("mouseleave", () => {
     cursor.classList.remove("grow");
     cursor.classList.remove("grow-small");
+    gsap.to(cursor, { scaleX: 1, scaleY: 1, duration: 0.25, ease: "power2.out" });
   });
 });
 

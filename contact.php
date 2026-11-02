@@ -250,7 +250,7 @@
                             class="widget widgets-company-info"
                             data-aos="zoom-in-right">
                             <div class="company-logo cursor-scale small">
-                                <a href="https://wepowerclinic.com/"><img src="assets/images/logo1.png" class="logo2" alt="logo" /></a>
+                                <a href="index.php"><img src="assets/images/logo1.png" class="logo2" alt="logo" /></a>
                             </div>
                         </div>
                     </div>
@@ -259,7 +259,7 @@
                             <h4 class="widget-title">Quick Links</h4>
                             <div class="menu-quick-link-content">
                                 <ul class="footer-menu cursor-scale small">
-                                    <li><a href="https://wepowerclinic.com/"> Home </a></li>
+                                    <li><a href="index.php"> Home </a></li>
                                     <li><a href="about.php"> About Us </a></li>
                                     <li><a href="services.php"> Services </a></li>
                                     <li><a href="our-team.php"> Our Team </a></li>
@@ -299,7 +299,7 @@
                     </div>
                     <div class="foorer-shape">
                         <div class="footer-thumb aos-init aos-animate" data-aos="zoom-in-right">
-                            <img class="footer-vector" src="assets/images/wepower/footer-vector.png" alt="">
+                            <img class="footer-vector" src="assets/images/wepower/footer-vector.png" alt="" loading="lazy">
                         </div>
 
                     </div>
@@ -434,25 +434,13 @@
 
 <script src="assets/js/ScrollTrigger.min.js"></script>
 
-<script src="assets/js/odometer.min.js"></script>
-
 <script src="assets/js/bootstrap.min.js"></script>
-
-<script src="assets/js/owl.carousel.min.js"></script>
-
-<script src="assets/js/imagesloaded.pkgd.min.js"></script>
-
-<script src="venobox/venobox.js"></script>
-
-<script src="venobox/venobox.min.js"></script>
 
 <script src="assets/js/jquery.meanmenu.js"></script>
 
 <script src="assets/js/jquery.scrollUp.js"></script>
 
 <script src="assets/js/appear.js"></script>
-
-<script src="assets/js/jquery.barfiller.js"></script>
 
 <script src="assets/js/theme.js"></script>
 

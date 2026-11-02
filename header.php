@@ -79,7 +79,7 @@
    <!-- Pixel Code - https://popskit.com/ -->
 <script defer src="https://popskit.com/pixel/9knp7hpIdOdH95UvehSKuJtJFYGefagj"></script>
 <!-- END Pixel Code -->
-  <script src="https://kit.fontawesome.com/72c2cdf33d.js" crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/72c2cdf33d.js" crossorigin="anonymous" defer></script>
 
 </head>
 
@@ -102,10 +102,10 @@
       <div class="row align-items-center">
         <div class="col-lg-2">
           <div class="logo cursor-scale small">
-            <a class="logo_img" href="https://wepowerclinic.com/" title="mediic">
+            <a class="logo_img" href="index.php" title="mediic">
               <img src="assets/images/logo.png" class="logo" alt="logo" />
             </a>
-            <a class="main_sticky" href="https://wepowerclinic.com/" title="mediic">
+            <a class="main_sticky" href="index.php" title="mediic">
               <img src="assets/images/logo.png" class="logo" alt="logo" />
             </a>
           </div>
@@ -114,7 +114,7 @@
           <nav class="mediic_menu">
             <ul class="nav_scroll">
               <li>
-                <a class="mdy-hover cursor-scale small" href="https://wepowerclinic.com/">Home </a>
+                <a class="mdy-hover cursor-scale small" href="index.php">Home </a>
               </li>
               <li>
                 <a class="mdy-hover cursor-scale small" href="about.php">About Us</a>
@@ -154,7 +154,7 @@
       <nav class="mediic_menu">
         <ul class="nav_scroll">
           <li>
-            <a class="mdy-hover cursor-scale small" href="https://wepowerclinic.com/">Home </a>
+            <a class="mdy-hover cursor-scale small" href="index.php">Home </a>
           </li>
           <li>
             <a class="mdy-hover cursor-scale small" href="about.php">About Us</a>

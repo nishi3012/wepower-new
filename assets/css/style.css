@@ -5994,7 +5994,7 @@ span.flaticon-multiply i {
   margin-top: -20px;
   border-radius: 50%;
   border: 2px solid #00ffff;
-  transition: 0.3s;
+  transition: width 0.3s ease, height 0.3s ease, background 0.3s ease, border 0.3s ease, border-radius 0.3s ease;
   transform: translate(-50%, -50%);
   pointer-events: none;
   z-index: 1000;
@@ -6015,14 +6015,13 @@ span.flaticon-multiply i {
 
 .grow,
 .grow-small {
-  transform: scale(3);
   background: white;
   mix-blend-mode: difference;
   border: none;
 }
 
 .grow-small {
-  transform: scale(1.7);
+  /* shape handled by GSAP */
 }
 
 /* End curser point */
